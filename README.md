@@ -1,3 +1,3 @@
 330 Refactoring
 
-Code refactoring assignment for CS 330- Object Oriented Programming
+-Code refactoring assignment for CS 330: Object Oriented Programming
